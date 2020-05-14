@@ -6,7 +6,7 @@ Estudiante de ingeniería de sistemas 8to semestre - Universidad de San Buenaven
 
 * [**BITACORA**](Bitacora)
 * [**OpenRefine**](OpenRefine)
-* [**Parcial**](Parcial) 💎
+* [**Parcial**](Parcial)
 * [**Pentaho**](Pentaho)
 * [**Proyecto**](Proyecto)
 * [**Sakila**](Sakila)
