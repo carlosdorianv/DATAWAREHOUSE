@@ -3,13 +3,15 @@
 * **Ocupación** 🎓  
 Estudiante de ingeniería de sistemas 8to semestre - Universidad de San Buenaventura
 ## Tabla de contenidos 📋  
+
 * [**BITACORA**](Bitacora)
-* [**Proyecto transferencias**](Proyecto)
-* [**Operaciones con Openrefine**](Openrefine) 💎
+* [**OpenRefine**](OpenRefine)
+* [**Parcial**](Parcial) 💎
 * [**Pentaho**](Pentaho)
-* [**Proyecto sakila**](sakila-db)
-* [**Proyecto transferencias**](Proyecto)
-### Proyecto transferencias ⚽⚽  
+* [**Proyecto**](Proyecto)
+* [**Sakila**](Sakila)
+
+### Proyecto transferencias 
 Podremos observar gráficos y estadísticas de partidos jugados, y en base a esto poder ver una probabilidad del desempeño 
 del equipo en el próximo juego; además de esto podremos observar la proyección de un jugador conforme a los datos que 
 iremos recolectando con el transcurso del tiempo. Los campeones de algunos torneos en particular, los goleadores, asistidores, 
